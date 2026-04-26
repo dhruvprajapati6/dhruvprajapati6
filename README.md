@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header GIF" />
-
+[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/sql-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 # 💫 About Me:
 Hi, I'm **Dhruv**, a passionate **BCA student** exploring the world of programming, development, and open-source collaboration.  
 <br>
