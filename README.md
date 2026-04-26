@@ -10,9 +10,9 @@ Hi, I'm **Dhruv**, a passionate **BCA student** exploring the world of programmi
 💻 Programming Languages: **C, Python, PHP**<br>
 🗄️ Database: **SQL**  <br>
 🌐 Web Technologies: **HTML, CSS, JavaScript**<br>  
-📚 Currently learning: **Git, GitHub, SQL**
-📌 Interests: **Building projects, solving real-world problems, and contributing to open source**
-🔐 Learning: **Cyber Security Basics & Ethical Hacking**
+📚 Currently learning: **Git, GitHub, SQL**<br>
+📌 Interests: **Building projects, solving real-world problems, and contributing to open source**<br>
+🔐 Learning: **Cyber Security Basics & Ethical Hacking**<br>
 🔭 Working on improving my development skills and creating cool projects<br>  
 📫 Reach me at: [dhruvpprajapati2007@gmail.com](mailto:dhruvpprajapati2007@gmail.com)
 
