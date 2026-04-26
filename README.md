@@ -6,11 +6,13 @@
 Hi, I'm **Dhruv**, a passionate **BCA student** exploring the world of programming, development, and open-source collaboration.  
 <br>
 
-🎯 **Currently learning and working with:**  
-💻 Programming Languages: **C**  
+🎯 **Currently learning and working with:** 
+💻 Programming Languages: **C, Python, PHP**
+🗄️ Database: **SQL**  
 🌐 Web Technologies: **HTML, CSS, JavaScript**  
 📚 Currently learning: **Git, GitHub, SQL**  
-📌 Interests: **Building projects, solving real-world problems, and contributing to open source**  
+📌 Interests: **Building projects, solving real-world problems, and contributing to open source** 
+🔐 Learning: **Cyber Security Basics & Ethical Hacking**
 🔭 Working on improving my development skills and creating cool projects  
 📫 Reach me at: [dhruvpprajapati2007@gmail.com](mailto:dhruvpprajapati2007@gmail.com)
 
@@ -28,6 +30,9 @@ Hi, I'm **Dhruv**, a passionate **BCA student** exploring the world of programmi
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
