@@ -46,9 +46,11 @@ Hi, I'm **Dhruv**, a passionate **BCA student** exploring the world of programmi
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dhruvprajapati6&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dhruvprajapati6&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhruvprajapati6&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=dhruvprajapati6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dhruvprajapati6&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhruvprajapati6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ---
 
