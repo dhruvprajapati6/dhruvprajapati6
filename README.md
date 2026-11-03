@@ -77,4 +77,4 @@ I’m a BCA student passionate about programming, web development, and building 
 
 </div>
 
-<!-- Created with ❤️ by Dhruv using GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with ❤️ by Dhruv Prajapati -->
