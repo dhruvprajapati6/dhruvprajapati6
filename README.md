@@ -27,8 +27,7 @@ I’m a BCA student passionate about programming, web development, and building 
 
 ---
 
-# 💻 Tech Stack:
-<h2>🛠️ Tech Stack</h2>
+
 
 <p align="center">
   <img src="./tech-stack.png" width="100%" alt="My Tech Stack"/>
