@@ -2,20 +2,22 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header GIF" />
 
-# 💫 About Me:
-Hi, I'm **Dhruv**, a passionate **BCA student** exploring the world of programming, development, and open-source collaboration.  
-<br>
+## 💫 About Me
 
-🎯 **Currently learning and working with:** <br>
-💻 Programming Languages: **C, Python, PHP**<br>
-🗄️ Database: **SQL**  <br>
-🌐 Web Technologies: **HTML, CSS, JavaScript**<br>  
-📚 Currently learning: **Git, GitHub, SQL**<br>
-📌 Interests: **Building projects, solving real-world problems, and contributing to open source**<br>
-🔐 Learning: **Cyber Security Basics & Ethical Hacking**<br>
-🔭 Working on improving my development skills and creating cool projects<br>  
-📫 Reach me at: [dhruvpprajapati2007@gmail.com](mailto:dhruvpprajapati2007@gmail.com)
+### 👋 Hi, I’m Dhruv Prajapati
+**BCA Student · Aspiring Software Developer**
 
+I’m a BCA student passionate about programming, web development, and building practical projects. I enjoy learning new technologies, solving problems, and growing through hands-on experience.
+
+🎓 **Education** · BCA, Smt. B. K. Mehta IT Centre, Palanpur  
+💻 **Languages** · C · Python · PHP · JavaScript  
+🌐 **Web** · HTML · CSS  
+🗄️ **Database** · SQL  
+🛠️ **Tools** · Git · GitHub  
+🔐 **Exploring** · Cybersecurity fundamentals and ethical hacking  
+🚀 **Interests** · Building projects · Problem-solving · Open source  
+
+📫 **Contact:** [dhruvpprajapati2007@gmail.com](mailto:dhruvpprajapati2007@gmail.com)
 ---
 
 ## 🌐 Connect with Me:
