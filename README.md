@@ -62,7 +62,7 @@ I’m a BCA student passionate about programming, web development, and building 
 ---
 
 ## 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=dhruvprajapati6&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://stable-github-profile-trophy.vercel.app/?username=dhruvprajapati6&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 ---
 
