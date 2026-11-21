@@ -24,6 +24,11 @@ I’m a BCA student passionate about programming, web development, and building 
 <a href="https://instagram.com/prajapati_dhruv07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/dhruv-prajapati-616b89362"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dhruvpprajapati2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://dhruvprajapati6.github.io/Dhruv_Port/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-Explore_Now-6C63FF?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
 ---
 
