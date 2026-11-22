@@ -99,8 +99,11 @@ I’m a BCA student passionate about programming, web development, and building 
 
 ---
 
-### 🔥 Profile Visitors:
-<img src="https://visitcount.itsvg.in/api?id=dhruvprajapati6&icon=0&color=0" />
+### 🔥 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvprajapati6&label=Profile+Visitors&color=6C63FF&style=for-the-badge" alt="Profile Visitors" />
+</p>
 
 </div>
 
