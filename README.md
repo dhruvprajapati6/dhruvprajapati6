@@ -55,7 +55,7 @@ I’m a BCA student passionate about programming, web development, and building 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:6C63FF,100:000000&height=2&section=footer" width="85%" />
 </p>
----
+
 
 <p align="center">
   <img src="./tech-stack.png" width="100%" alt="My Tech Stack"/>
