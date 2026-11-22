@@ -99,11 +99,26 @@ I’m a BCA student passionate about programming, web development, and building 
 
 ---
 
-### 🔥 Profile Visitors
+<!-- ================= PROFILE VISITORS ================= -->
+
+<h2 align="center">👀 Profile Visitors</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvprajapati6&label=Profile+Visitors&color=6C63FF&style=for-the-badge" alt="Profile Visitors" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;You+are+visitor+%F0%9F%9A%80;Keep+exploring+my+projects+%E2%9C%A8" />
 </p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=dhruvprajapati6&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00D9FF,100:000000&height=2&section=footer" width="65%" />
+</p>
+
+<!-- ================================================ -->
 
 </div>
 
