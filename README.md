@@ -20,19 +20,42 @@ I’m a BCA student passionate about programming, web development, and building 
 📫 **Contact:** [dhruvpprajapati2007@gmail.com](mailto:dhruvpprajapati2007@gmail.com)
 ---
 
-## 🌐 Connect with Me:
-<a href="https://instagram.com/prajapati_dhruv07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/dhruv-prajapati-616b89362"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dhruvpprajapati2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- 🌐 CONNECT WITH ME -->
+
+<h2 align="center">🌐 Connect with Me</h2>
+
 <p align="center">
-  <a href="https://dhruvprajapati6.github.io/Dhruv_Port/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-Explore_Now-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Collaborate+%F0%9F%A4%9D;Building+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%BB" />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/prajapati_dhruv07">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-prajapati-616b89362">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhruvpprajapati2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<br/>
+
+<!-- 🖤 BLACK PREMIUM PORTFOLIO -->
+
+<p align="center">
+  <a href="https://dhruvprajapati6.github.io/Dhruv_Port/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_VISIT_MY_PORTFOLIO-Explore_Now-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=00D9FF&labelColor=000000" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:6C63FF,100:000000&height=2&section=footer" width="85%" />
+</p>
 ---
-
-
 
 <p align="center">
   <img src="./tech-stack.png" width="100%" alt="My Tech Stack"/>
